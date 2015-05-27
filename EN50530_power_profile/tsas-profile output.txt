@@ -1,0 +1,18 @@
+Connected to:
+Ametek PPD,TerraSAS,1234567890,2.0.0.3
+
+At    0 seconds power was set to    20 %
+At   15 seconds power was set to    20 %
+At   95 seconds power was set to   100 %
+At  130 seconds power was set to   100 %
+At  134 seconds power was set to    20 %
+At  154 seconds power was set to    20 %
+At  156 seconds power was set to    60 %
+At  191 seconds power was set to    60 %
+At  193 seconds power was set to    20 %
+At  213 seconds power was set to    20 %
+At  218 seconds power was set to   110 %
+At  253 seconds power was set to   110 %
+At  353 seconds power was set to    20 %
+At  360 seconds power was set to    20 %
+Profile execution completed.
